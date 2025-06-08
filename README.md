@@ -18,13 +18,13 @@ Data Preprocessing
 - Remove missing values
 - Normalize features (rainfall, temperature, soil quality)
 5. Ethical Reflection
-Bias Risks:
+      Bias Risks:
 - Data may favor large-scale farming over smallholder farmers.
 - Regional disparities (developed vs. developing nations).
-- Fairness & Sustainability:
+      Fairness & Sustainability:
 - Ensure diverse datasets representing multiple farming conditions.
 - Promote equitable access to AI-driven recommendations for farmers in remote areas.
-Deliverables
+6. Deliverables
 - Code: Python notebook with preprocessing, training, and evaluation.
 - Report:
 - SDG problem: Food security.
